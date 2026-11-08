@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Career path: 2021 Veevo Tech, NOC Engineer · 2023 Express Publications, System Support Engineer · 2024 AlmavivA, Network Engineer on the Riyadh Metro project · 2025 Wemart Arabia, IT Engineer on a Huawei stack · 2026 Leon, MAMCO and ANMAT contracts in data centre, ICT and BMS · Oct 2026 center3 Riyadh, SambaNova AI racks and Viasat IGW via RADX">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B2545"/>
+      <stop offset="1" stop-color="#13315C"/>
+    </linearGradient>
+    <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="100" y1="0" x2="1100" y2="0">
+      <stop offset="0" stop-color="#4C8DFF"/>
+      <stop offset="0.25" stop-color="#FF7A1A"/>
+      <stop offset="0.5" stop-color="#34D399"/>
+      <stop offset="0.75" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A97BFF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.05"/>
+    </pattern>
+    <style>
+      .k{font-family:'JetBrains Mono',Consolas,'Courier New',monospace;font-size:12px;letter-spacing:2px;fill:#7F98C0}
+      .y{font-family:'JetBrains Mono',Consolas,'Courier New',monospace;font-size:14px;font-weight:700}
+      .c{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:17px;font-weight:700;fill:#FFFFFF}
+      .r{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;fill:#A9BCD8}
+      .ring{fill:none;stroke-width:2;transform-box:fill-box;transform-origin:center;animation:ring 2.4s ease-out infinite}
+      @keyframes ring{0%{opacity:.9;transform:scale(1)}100%{opacity:0;transform:scale(2.4)}}
+      .travel{animation:travel 7s linear infinite}
+      @keyframes travel{from{transform:translateX(0)}to{transform:translateX(1000px)}}
+      @media (prefers-reduced-motion:reduce){.ring,.travel{animation:none}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="250" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="250" rx="16" fill="url(#grid)"/>
+  <text class="k" x="36" y="38">CAREER PATH · 2021 → 2026</text>
+
+  <line x1="100" y1="112" x2="1100" y2="112" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <circle class="travel" cx="100" cy="112" r="4" fill="#FFFFFF" opacity="0.9"/>
+
+  <!-- 1 Veevo -->
+  <text class="y" x="100" y="86" text-anchor="middle" fill="#4C8DFF">2021</text>
+  <circle class="ring" cx="100" cy="112" r="11" stroke="#4C8DFF"/>
+  <circle cx="100" cy="112" r="11" fill="#0B2545" stroke="#4C8DFF" stroke-width="4"/>
+  <text class="c" x="100" y="156" text-anchor="middle">Veevo Tech</text>
+  <text class="r" x="100" y="177" text-anchor="middle">NOC Engineer</text>
+  <text class="r" x="100" y="195" text-anchor="middle">24/7 NOC · Peshawar</text>
+
+  <!-- 2 Express -->
+  <text class="y" x="300" y="86" text-anchor="middle" fill="#FF7A1A">2023</text>
+  <circle class="ring" cx="300" cy="112" r="11" stroke="#FF7A1A" style="animation-delay:.4s"/>
+  <circle cx="300" cy="112" r="11" fill="#0B2545" stroke="#FF7A1A" stroke-width="4"/>
+  <text class="c" x="300" y="156" text-anchor="middle">Express Publications</text>
+  <text class="r" x="300" y="177" text-anchor="middle">System Support Engineer</text>
+  <text class="r" x="300" y="195" text-anchor="middle">100+ endpoints · Peshawar</text>
+
+  <!-- 3 AlmavivA -->
+  <text class="y" x="500" y="86" text-anchor="middle" fill="#F5C542">2024</text>
+  <circle class="ring" cx="500" cy="112" r="11" stroke="#F5C542" style="animation-delay:.8s"/>
+  <circle cx="500" cy="112" r="11" fill="#0B2545" stroke="#F5C542" stroke-width="4"/>
+  <text class="c" x="500" y="156" text-anchor="middle">AlmavivA</text>
+  <text class="r" x="500" y="177" text-anchor="middle">Network Engineer</text>
+  <text class="r" x="500" y="195" text-anchor="middle">Riyadh Metro project</text>
+
+  <!-- 4 Wemart -->
+  <text class="y" x="700" y="86" text-anchor="middle" fill="#34D399">2025</text>
+  <circle class="ring" cx="700" cy="112" r="11" stroke="#34D399" style="animation-delay:1.2s"/>
+  <circle cx="700" cy="112" r="11" fill="#0B2545" stroke="#34D399" stroke-width="4"/>
+  <text class="c" x="700" y="156" text-anchor="middle">Wemart Arabia</text>
+  <text class="r" x="700" y="177" text-anchor="middle">IT Engineer</text>
+  <text class="r" x="700" y="195" text-anchor="middle">Huawei stack · 230+ cameras</text>
+
+  <!-- 5 Contracts -->
+  <text class="y" x="900" y="86" text-anchor="middle" fill="#22D3EE">2026</text>
+  <circle class="ring" cx="900" cy="112" r="11" stroke="#22D3EE" style="animation-delay:1.6s"/>
+  <circle cx="900" cy="112" r="11" fill="#0B2545" stroke="#22D3EE" stroke-width="4"/>
+  <text class="c" x="900" y="156" text-anchor="middle">Leon · MAMCO · ANMAT</text>
+  <text class="r" x="900" y="177" text-anchor="middle">Contract engineer</text>
+  <text class="r" x="900" y="195" text-anchor="middle">IP core · ICT · BMS</text>
+
+  <!-- 6 center3 -->
+  <text class="y" x="1100" y="86" text-anchor="middle" fill="#A97BFF">OCT 2026</text>
+  <circle class="ring" cx="1100" cy="112" r="11" stroke="#A97BFF" style="animation-delay:2s"/>
+  <circle cx="1100" cy="112" r="11" fill="#A97BFF" stroke="#A97BFF" stroke-width="4"/>
+  <text class="c" x="1100" y="156" text-anchor="middle">center3 · RADX</text>
+  <text class="r" x="1100" y="177" text-anchor="middle">Field engineer</text>
+  <text class="r" x="1100" y="195" text-anchor="middle">AI racks · Viasat IGW</text>
+</svg>
