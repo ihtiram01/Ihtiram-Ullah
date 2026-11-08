@@ -158,7 +158,7 @@ I take over live, undocumented environments and leave them **documented, monitor
 |---|---|---|---|---|
 | <img src="https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /> | **CCNA 200-301** | Cisco | 2021 | ✅ Certified |
 | <img src="https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /> | **CCNP ENCOR 350-401** | Cisco · Corvit Systems | 2022 | 📚 Training complete — exam in preparation |
-| 🔄 | **ITIL 4 Foundation** | ITIL 4 | 2022 | 📚 Training complete |
+| 🔄 | **ITIL 4 Foundation** | — | 2022 | 📚 Training complete |
 | 🖥️ | **CompTIA A+** | CompTIA | 2021 | ✅ Certified |
 | <img src="https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /> | CCNP ENARSI 300-410 | Cisco · Corvit Systems | 2022 | 📚 Training complete |
 | 🪟 | Windows Server Administration (MCSE track) | Corvit Systems | 2022 | 📚 Training complete |
