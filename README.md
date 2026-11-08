@@ -85,7 +85,7 @@ I take over live, undocumented environments and leave them **documented, monitor
 > Contracts, freelance dispatches and site projects — newest first.
 
 ### 🏢 BMS Controls & Low Current Engineer · ANMAT Operations
-**Ministry of Tourism Project** · Contract · Riyadh · Aug 2026 – completed
+**Ministry of Tourism Project** · Contract · Riyadh · Aug – Oct 2026
 - Retrofitted **Trend IQeco VAV controllers to Schneider SpaceLogic RP-V** inside an occupied government building, on night shifts
 - Cat 6A terminations and **RS-485 field-bus loops** (around five controllers per segment)
 - Prepared field devices for the central BMS; handled site permits, coordination and as-installed records
@@ -154,24 +154,17 @@ I take over live, undocumented environments and leave them **documented, monitor
 
 ## 📜 Certifications & Training
 
-**Certified**
-
-| Certification | Issuer | Year |
-|---|---|---|
-| **CCNA 200-301** | Cisco | 2021 |
-| **CompTIA A+** | CompTIA | 2021 |
-
-**Training completed**
-
-| Course | Provider | Year | Status |
-|---|---|---|---|
-| CCNP ENCOR 350-401 | Corvit Systems | 2022 | 📚 Exam in preparation |
-| CCNP ENARSI 300-410 | Corvit Systems | 2022 | Training |
-| ITIL 4 Foundation | — | 2022 | Training |
-| Windows Server Administration (MCSE track) | Corvit Systems | 2022 | Training |
-| Microsoft Azure Administrator (AZ-104) | Corvit Systems | 2023 | Training |
-| CCTV Operator | Corvit Systems | 2023 | Training |
-| VMware ESXi & vCenter Administration | Udemy | 2024 | Training |
+| | Certification / Course | Issuer | Year | Status |
+|---|---|---|---|---|
+| <img src="https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /> | **CCNA 200-301** | Cisco | 2021 | ✅ Certified |
+| <img src="https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /> | **CCNP ENCOR 350-401** | Cisco · Corvit Systems | 2022 | 📚 Training complete — exam in preparation |
+| 🔄 | **ITIL 4 Foundation** | ITIL 4 | 2022 | 📚 Training complete |
+| 🖥️ | **CompTIA A+** | CompTIA | 2021 | ✅ Certified |
+| <img src="https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /> | CCNP ENARSI 300-410 | Cisco · Corvit Systems | 2022 | 📚 Training complete |
+| 🪟 | Windows Server Administration (MCSE track) | Corvit Systems | 2022 | 📚 Training complete |
+| ☁️ | Microsoft Azure Administrator (AZ-104) | Corvit Systems | 2023 | 📚 Training complete |
+| 📹 | CCTV Operator | Corvit Systems | 2023 | 📚 Training complete |
+| <img src="https://img.shields.io/badge/-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" /> | VMware ESXi & vCenter Administration | Udemy | 2024 | 📚 Training complete |
 
 ---
 
