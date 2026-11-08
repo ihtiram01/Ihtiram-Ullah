@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,55:13315C,100:1B57C4&height=210&section=header&text=Ihtiram%20Ullah&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Network%20%26%20Systems%20Engineer%20%C2%B7%20Riyadh%2C%20Saudi%20Arabia&descAlignY=58&descSize=18" alt="Ihtiram Ullah — Network & Systems Engineer" width="100%" />
+  <img src="./assets/header.svg" alt="Ihtiram Ullah — Network & Systems Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=1B57C4&center=true&vCenter=true&width=760&lines=Data+centre+%C2%B7+Carrier+IP+core+%C2%B7+Enterprise+LAN+%2F+WLAN;Huawei+%C2%B7+Cisco+%C2%B7+ZTE+%C2%B7+VMware+%C2%B7+Windows+Server;5+years+in+production+infrastructure+across+KSA+%26+Pakistan;Teaching+networking+to+10K%2B+followers+as+%40gulf_networking" alt="What I do" />
+  <img src="./assets/tagline.svg" alt="Data centre · Carrier IP core · Enterprise LAN / WLAN — Huawei · Cisco · ZTE · VMware · Windows Server" width="820" />
 </p>
 
 <p align="center">
@@ -282,5 +282,5 @@ Open to **Network**, **Systems**, **Data Centre** and **Infrastructure** roles a
 | 🤝 References | Available on request |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B57C4,55:13315C,100:0B2545&height=110&section=footer" alt="" width="100%" />
+  <img src="./assets/footer.svg" alt="" width="100%" />
 </p>

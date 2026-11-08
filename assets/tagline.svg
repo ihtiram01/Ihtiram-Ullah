@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="44" viewBox="0 0 820 44" role="img" aria-label="Data centre, carrier IP core and enterprise LAN/WLAN. Huawei, Cisco, ZTE, VMware, Windows Server. 5 years in production infrastructure across KSA and Pakistan. Teaching networking to 10K+ followers as @gulf_networking.">
+  <defs>
+    <style>
+      .l{font-family:'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace;font-size:19px;font-weight:600;fill:#1B57C4;opacity:0;animation:cycle 16s infinite}
+      .l2{animation-delay:4s}.l3{animation-delay:8s}.l4{animation-delay:12s}
+      @keyframes cycle{0%{opacity:0;transform:translateY(8px)}4%{opacity:1;transform:translateY(0)}22%{opacity:1;transform:translateY(0)}26%{opacity:0;transform:translateY(-8px)}100%{opacity:0}}
+      @media (prefers-color-scheme:dark){.l{fill:#7FA8E8}}
+      @media (prefers-reduced-motion:reduce){.l{animation:none}.l1{opacity:1}}
+    </style>
+  </defs>
+  <text class="l l1" x="410" y="29" text-anchor="middle">Data centre · Carrier IP core · Enterprise LAN / WLAN</text>
+  <text class="l l2" x="410" y="29" text-anchor="middle">Huawei · Cisco · ZTE · VMware · Windows Server</text>
+  <text class="l l3" x="410" y="29" text-anchor="middle">5 years in production infrastructure across KSA &amp; Pakistan</text>
+  <text class="l l4" x="410" y="29" text-anchor="middle">Teaching networking to 10K+ followers as @gulf_networking</text>
+</svg>
