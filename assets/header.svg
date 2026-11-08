@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Ihtiram Ullah — Network &amp; Systems Engineer, Riyadh, Saudi Arabia">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B2545"/>
+      <stop offset="0.55" stop-color="#13315C"/>
+      <stop offset="1" stop-color="#1B57C4"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <style>
+      .t{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+      .pulse{animation:p 3s ease-in-out infinite}
+      .pulse.b{animation-delay:1s}.pulse.c{animation-delay:2s}
+      @keyframes p{0%,100%{opacity:.25}50%{opacity:1}}
+      .flow{stroke-dasharray:6 14;animation:f 2.4s linear infinite}
+      @keyframes f{to{stroke-dashoffset:-40}}
+      @media (prefers-reduced-motion:reduce){.pulse,.flow{animation:none}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+
+  <!-- fibre strands, TIA-598 colours -->
+  <g fill="none" stroke-width="2" stroke-linecap="round" opacity="0.55">
+    <path class="flow" d="M0 210 C 250 170, 420 250, 700 205 S 1050 160, 1200 195" stroke="#4C8DFF"/>
+    <path class="flow" d="M0 222 C 260 185, 430 262, 710 218 S 1060 172, 1200 208" stroke="#FF7A1A" style="animation-delay:.4s"/>
+    <path class="flow" d="M0 234 C 270 200, 440 274, 720 231 S 1070 184, 1200 221" stroke="#34D399" style="animation-delay:.8s"/>
+    <path class="flow" d="M0 246 C 280 214, 450 286, 730 244 S 1080 196, 1200 234" stroke="#22D3EE" style="animation-delay:1.2s"/>
+  </g>
+
+  <!-- port LEDs -->
+  <g>
+    <circle class="pulse" cx="1010" cy="70" r="6" fill="#34D399"/>
+    <circle class="pulse b" cx="1036" cy="70" r="6" fill="#34D399"/>
+    <circle class="pulse c" cx="1062" cy="70" r="6" fill="#F5C542"/>
+    <rect x="990" y="88" width="92" height="22" rx="4" fill="none" stroke="#FFFFFF" stroke-opacity="0.35"/>
+    <g fill="#FFFFFF" fill-opacity="0.35">
+      <rect x="998" y="94" width="10" height="10" rx="1"/><rect x="1014" y="94" width="10" height="10" rx="1"/>
+      <rect x="1030" y="94" width="10" height="10" rx="1"/><rect x="1046" y="94" width="10" height="10" rx="1"/>
+      <rect x="1062" y="94" width="10" height="10" rx="1"/>
+    </g>
+  </g>
+
+  <text class="t" x="600" y="112" text-anchor="middle" fill="#FFFFFF" font-size="62" font-weight="700" letter-spacing="-1">Ihtiram Ullah</text>
+  <text class="t" x="600" y="156" text-anchor="middle" fill="#C9D8F0" font-size="22" font-weight="500">Network &amp; Systems Engineer · Riyadh, Saudi Arabia</text>
+</svg>
