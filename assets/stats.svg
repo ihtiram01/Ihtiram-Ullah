@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="5 years in production infrastructure · 63 sites in a national telecom IP-core rollout · 5 AI racks deployed at center3 Riyadh · 230+ IP cameras across 4 Hikvision NVRs · 40% less alert noise after Zabbix tuning">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16294A"/>
+      <stop offset="1" stop-color="#0E1C33"/>
+    </linearGradient>
+    <style>
+      .n{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:44px;font-weight:700;fill:#FFFFFF}
+      .u{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;fill:#A9BCD8}
+      .tile{animation:rise .7s ease-out both}
+      .t2{animation-delay:.08s}.t3{animation-delay:.16s}.t4{animation-delay:.24s}.t5{animation-delay:.32s}
+      @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+      @media (prefers-reduced-motion:reduce){.tile{animation:none}}
+    </style>
+  </defs>
+
+  <g class="tile">
+    <rect x="4" y="4" width="226" height="142" rx="14" fill="url(#tile)" stroke="#2A4370"/>
+    <rect x="4" y="4" width="226" height="5" rx="2" fill="#4C8DFF"/>
+    <text class="n" x="117" y="68" text-anchor="middle">5</text>
+    <text class="u" x="117" y="98" text-anchor="middle">years in production</text>
+    <text class="u" x="117" y="117" text-anchor="middle">infrastructure</text>
+  </g>
+  <g class="tile t2">
+    <rect x="246" y="4" width="226" height="142" rx="14" fill="url(#tile)" stroke="#2A4370"/>
+    <rect x="246" y="4" width="226" height="5" rx="2" fill="#FF7A1A"/>
+    <text class="n" x="359" y="68" text-anchor="middle">63</text>
+    <text class="u" x="359" y="98" text-anchor="middle">sites in a national</text>
+    <text class="u" x="359" y="117" text-anchor="middle">telecom IP-core rollout</text>
+  </g>
+  <g class="tile t3">
+    <rect x="488" y="4" width="226" height="142" rx="14" fill="url(#tile)" stroke="#2A4370"/>
+    <rect x="488" y="4" width="226" height="5" rx="2" fill="#34D399"/>
+    <text class="n" x="601" y="68" text-anchor="middle">5</text>
+    <text class="u" x="601" y="98" text-anchor="middle">AI racks deployed</text>
+    <text class="u" x="601" y="117" text-anchor="middle">at center3 Riyadh</text>
+  </g>
+  <g class="tile t4">
+    <rect x="730" y="4" width="226" height="142" rx="14" fill="url(#tile)" stroke="#2A4370"/>
+    <rect x="730" y="4" width="226" height="5" rx="2" fill="#22D3EE"/>
+    <text class="n" x="843" y="68" text-anchor="middle">230+</text>
+    <text class="u" x="843" y="98" text-anchor="middle">IP cameras across</text>
+    <text class="u" x="843" y="117" text-anchor="middle">4 Hikvision NVRs</text>
+  </g>
+  <g class="tile t5">
+    <rect x="972" y="4" width="224" height="142" rx="14" fill="url(#tile)" stroke="#2A4370"/>
+    <rect x="972" y="4" width="224" height="5" rx="2" fill="#A97BFF"/>
+    <text class="n" x="1084" y="68" text-anchor="middle">−40%</text>
+    <text class="u" x="1084" y="98" text-anchor="middle">alert noise after</text>
+    <text class="u" x="1084" y="117" text-anchor="middle">Zabbix tuning</text>
+  </g>
+</svg>

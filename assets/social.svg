@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="@gulf_networking — 24.5K followers on TikTok, 11.4K followers on Instagram">
+  <defs>
+    <linearGradient id="tt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111111"/>
+      <stop offset="1" stop-color="#1E1E24"/>
+    </linearGradient>
+    <linearGradient id="ig" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#F58529"/>
+      <stop offset="0.35" stop-color="#DD2A7B"/>
+      <stop offset="0.7" stop-color="#8134AF"/>
+      <stop offset="1" stop-color="#515BD4"/>
+    </linearGradient>
+    <style>
+      .n{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:52px;font-weight:700;fill:#FFFFFF}
+      .l{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:17px;font-weight:600;fill:#FFFFFF;opacity:.92}
+      .h{font-family:'JetBrains Mono',Consolas,'Courier New',monospace;font-size:14px;fill:#FFFFFF;opacity:.75}
+    </style>
+  </defs>
+
+  <!-- TikTok -->
+  <rect x="4" y="4" width="586" height="152" rx="18" fill="url(#tt)"/>
+  <g transform="translate(46 44)">
+    <path d="M44 0h14c1 10 8 18 18 19v14c-7 0-13-2-18-6v27a24 24 0 1 1-24-24c1 0 3 0 4 1v14a10 10 0 1 0 6 9z" fill="#25F4EE" transform="translate(-2 2)"/>
+    <path d="M44 0h14c1 10 8 18 18 19v14c-7 0-13-2-18-6v27a24 24 0 1 1-24-24c1 0 3 0 4 1v14a10 10 0 1 0 6 9z" fill="#FE2C55" transform="translate(2 -2)"/>
+    <path d="M44 0h14c1 10 8 18 18 19v14c-7 0-13-2-18-6v27a24 24 0 1 1-24-24c1 0 3 0 4 1v14a10 10 0 1 0 6 9z" fill="#FFFFFF"/>
+  </g>
+  <text class="n" x="190" y="88">24.5K</text>
+  <text class="l" x="192" y="118">followers on TikTok</text>
+  <text class="h" x="560" y="140" text-anchor="end">@gulf_networking</text>
+
+  <!-- Instagram -->
+  <rect x="610" y="4" width="586" height="152" rx="18" fill="url(#ig)"/>
+  <g transform="translate(652 40)" fill="none" stroke="#FFFFFF" stroke-width="7">
+    <rect x="0" y="0" width="80" height="80" rx="24"/>
+    <circle cx="40" cy="40" r="19"/>
+    <circle cx="62" cy="18" r="3" fill="#FFFFFF" stroke="none"/>
+  </g>
+  <text class="n" x="796" y="88">11.4K</text>
+  <text class="l" x="798" y="118">followers on Instagram</text>
+  <text class="h" x="1166" y="140" text-anchor="end">@gulf_networking</text>
+</svg>
