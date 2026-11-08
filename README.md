@@ -11,6 +11,7 @@
   <a href="mailto:ihtirammmd01@gmail.com"><img src="https://img.shields.io/badge/Email-ihtirammmd01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ihtiram-ullah-1978532a8"><img src="https://img.shields.io/badge/LinkedIn-Ihtiram%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.tiktok.com/@gulf_networking"><img src="https://img.shields.io/badge/TikTok-%40gulf__networking-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok @gulf_networking" /></a>
+  <a href="https://www.instagram.com/gulf_networking/"><img src="https://img.shields.io/badge/Instagram-%40gulf__networking-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @gulf_networking" /></a>
   <br/>
   <img src="https://img.shields.io/badge/Phone-%2B966%2050%20881%207993-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone and WhatsApp +966 50 881 7993" />
   <img src="https://img.shields.io/badge/Based%20in-Riyadh%2C%20KSA-0B7D55?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Riyadh, Saudi Arabia" />
@@ -259,9 +260,20 @@ Final year project: **MPLS VPN Design & Simulation**
 
 ## 🎥 @gulf_networking
 
-I teach networking from the field — **10K+ followers on TikTok**, cross-posted to LinkedIn, Instagram and YouTube. Real fibre, SFP and data-centre work, RJ45 pinouts, OSI, and CCNA / CCNP prep, made with my own field photos and a Python + FFmpeg rendering pipeline.
+I teach networking from the field to **35K+ followers** — real fibre, SFP and data-centre work, RJ45 pinouts, OSI, and CCNA / CCNP prep, made with my own field photos and a Python + FFmpeg rendering pipeline. Playlists include **Fiber & SFP**, **Data Center** and **Real field work**.
 
-<a href="https://www.tiktok.com/@gulf_networking"><img src="https://img.shields.io/badge/Follow-%40gulf__networking-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="Follow @gulf_networking on TikTok" /></a>
+<table>
+<tr>
+<td align="center" width="33%"><h3>24.5K</h3><sub>TikTok followers</sub></td>
+<td align="center" width="33%"><h3>148K</h3><sub>TikTok likes</sub></td>
+<td align="center" width="33%"><h3>11.4K</h3><sub>Instagram followers</sub></td>
+</tr>
+</table>
+
+<p>
+  <a href="https://www.tiktok.com/@gulf_networking"><img src="https://img.shields.io/badge/TikTok-24.5K%20followers-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok @gulf_networking — 24.5K followers" /></a>
+  <a href="https://www.instagram.com/gulf_networking/"><img src="https://img.shields.io/badge/Instagram-11.4K%20followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @gulf_networking — 11.4K followers" /></a>
+</p>
 
 ## 🏏 Outside Work
 
